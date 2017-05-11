@@ -1,0 +1,30 @@
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\bin\Release\firstForms.exe.config
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\bin\Release\firstForms.exe
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\bin\Release\firstForms.pdb
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Release\firstForms.Form1.resources
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Release\firstForms.Properties.Resources.resources
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Release\firstForms.csproj.GenerateResource.Cache
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Release\firstForms.exe
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Release\firstForms.pdb
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Release\firstForms.csprojResolveAssemblyReference.cache
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\bin\Release\firstForms.exe.config
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\obj\Release\firstForms.exe
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\obj\Release\firstForms.pdb
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\bin\Release\firstForms.exe
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\bin\Release\firstForms.pdb
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\obj\Release\firstForms.csprojResolveAssemblyReference.cache
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\obj\Release\firstForms.Form1.resources
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\obj\Release\firstForms.Properties.Resources.resources
+D:\KNU\3_Kurs\Projects\firstForms\firstForms\obj\Release\firstForms.csproj.GenerateResource.Cache
+D:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Release\firstForms.exe.config
+D:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.exe
+D:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.pdb
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Release\firstForms.exe.config
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.exe
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.pdb
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Release\firstForms.exe
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Release\firstForms.pdb
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.csprojResolveAssemblyReference.cache
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.Form1.resources
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.Properties.Resources.resources
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Release\firstForms.csproj.GenerateResource.Cache

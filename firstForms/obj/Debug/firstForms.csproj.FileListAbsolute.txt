@@ -1,0 +1,21 @@
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\bin\Debug\firstForms.exe.config
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\bin\Debug\firstForms.exe
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\bin\Debug\firstForms.pdb
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Debug\firstForms.Form1.resources
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Debug\firstForms.Properties.Resources.resources
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Debug\firstForms.csproj.GenerateResource.Cache
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Debug\firstForms.exe
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Debug\firstForms.pdb
+C:\Users\Zherdev\Documents\Visual Studio 2013\Projects\firstForms\firstForms\obj\Debug\firstForms.csprojResolveAssemblyReference.cache
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Debug\firstForms.exe.config
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Debug\firstForms.exe
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Debug\firstForms.pdb
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.Form1.resources
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.FormSensor.resources
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.Properties.Resources.resources
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.csproj.GenerateResource.Cache
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.exe
+E:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.pdb
+D:\KNU\3_Kurs\Projects\Runner c#\firstForms\bin\Debug\firstForms.exe.config
+D:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.exe
+D:\KNU\3_Kurs\Projects\Runner c#\firstForms\obj\Debug\firstForms.pdb
